@@ -1,0 +1,25 @@
+C:\VBNET\SISFOPerpustakaanFlatDesign\bin\Debug\SISFOPerpustakaanFlatDesign.exe.config
+C:\VBNET\SISFOPerpustakaanFlatDesign\bin\Debug\SISFOPerpustakaanFlatDesign.exe
+C:\VBNET\SISFOPerpustakaanFlatDesign\bin\Debug\SISFOPerpustakaanFlatDesign.pdb
+C:\VBNET\SISFOPerpustakaanFlatDesign\bin\Debug\SISFOPerpustakaanFlatDesign.xml
+C:\VBNET\SISFOPerpustakaanFlatDesign\obj\Debug\SISFOPerpustakaanFlatDesign.vbprojAssemblyReference.cache
+C:\VBNET\SISFOPerpustakaanFlatDesign\obj\Debug\SISFOPerpustakaanFlatDesign.MenuUtama.resources
+C:\VBNET\SISFOPerpustakaanFlatDesign\obj\Debug\SISFOPerpustakaanFlatDesign.Resources.resources
+C:\VBNET\SISFOPerpustakaanFlatDesign\obj\Debug\SISFOPerpustakaanFlatDesign.vbproj.GenerateResource.cache
+C:\VBNET\SISFOPerpustakaanFlatDesign\obj\Debug\SISFOPerpustakaanFlatDesign.vbproj.CoreCompileInputs.cache
+C:\VBNET\SISFOPerpustakaanFlatDesign\obj\Debug\SISFOPerpustakaanFlatDesign.exe
+C:\VBNET\SISFOPerpustakaanFlatDesign\obj\Debug\SISFOPerpustakaanFlatDesign.xml
+C:\VBNET\SISFOPerpustakaanFlatDesign\obj\Debug\SISFOPerpustakaanFlatDesign.pdb
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\bin\Debug\SISFOPerpustakaanFlatDesign.exe.config
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\bin\Debug\SISFOPerpustakaanFlatDesign.exe
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\bin\Debug\SISFOPerpustakaanFlatDesign.pdb
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\bin\Debug\SISFOPerpustakaanFlatDesign.xml
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\obj\Debug\SISFOPerpustakaanFlatDesign.vbprojAssemblyReference.cache
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\obj\Debug\SISFOPerpustakaanFlatDesign.MenuUtama.resources
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\obj\Debug\SISFOPerpustakaanFlatDesign.Resources.resources
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\obj\Debug\SISFOPerpustakaanFlatDesign.vbproj.GenerateResource.cache
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\obj\Debug\SISFOPerpustakaanFlatDesign.vbproj.CoreCompileInputs.cache
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\obj\Debug\SISFOPerpustakaanFlatDesign.exe
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\obj\Debug\SISFOPerpustakaanFlatDesign.xml
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\obj\Debug\SISFOPerpustakaanFlatDesign.pdb
+C:\VBNET\1901010194_Lalu Husni Hawari(UI Desain)\obj\Debug\SISFOPerpustakaanFlatDesign.Login.resources
